@@ -1,0 +1,6 @@
+F:\TestCode\JSDictionary\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\TestCode\JSDictionary\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\TestCode\JSDictionary\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\TestCode\JSDictionary\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\TestCode\JSDictionary\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\TestCode\JSDictionary\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

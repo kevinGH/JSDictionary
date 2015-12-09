@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var dictionary = function () {
+            var dct = {};
+
+            this.add = function (key, value) {
+                dct[key] = value;                
+            };
+
+            this.remove = function (key) {
+                delete dct["P1"];
+            };
+
+            this.count = function () {
+                var c = 0;
+                for (var p in dct) c++;
+
+                return c;
+            };
+
+            this.list = function () {
+                return dct;
+            }
+        };
+
+        var d = new dictionary();
+        d.add("a", "100");
+        d.add("b", "100");
+        d.add("c", "100");
+
+        console.log(d.count());
+        console.log(d.list());
+    </script>
+</body>
+</html>
